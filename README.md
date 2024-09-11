@@ -1,2 +1,2 @@
-![simonGame](SimonImage.png)
+!["simonGame"](SimonImage.png)
 
